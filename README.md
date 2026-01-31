@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I’m Mahima 👋
 
-<!--
-**mahima9728/mahima9728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full Stack Engineer working with Next.js, Node.js, and MongoDB.
 
-Here are some ideas to get you started:
+I build product-style web applications and SaaS platforms with a focus on:
+- Clean architecture
+- Authentication & role-based access
+- Scalable APIs
+- Real-world workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building an AI-powered recruitment SaaS platform.
+💡 Skilled in: Next.js, Node.js, MongoDB, REST APIs
+
+📫 LinkedIn: https://linkedin.com/in/mahima-rawat
+📌 GitHub portfolio: Pinned below
