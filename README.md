@@ -11,5 +11,5 @@ I build product-style web applications and SaaS platforms with a focus on:
 Currently building an AI-powered recruitment SaaS platform.
 💡 Skilled in: Next.js, Node.js, MongoDB, REST APIs
 
-📫 LinkedIn: https://linkedin.com/in/mahima-rawat
+📫 LinkedIn: www.linkedin.com/in/mahima-rawat-7a69b8290
 📌 GitHub portfolio: Pinned below
